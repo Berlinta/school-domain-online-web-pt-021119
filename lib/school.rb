@@ -13,7 +13,9 @@ class School
   
   def name
     @name
-  end  #def roster
+  end 
+  
+  #def roster
     #{}
   #end
   
